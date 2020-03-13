@@ -1,5 +1,6 @@
 # The CurrencyPay SDK
 Release Note Summary:
+- Version 2.0.2: This version of the SDK supports Swift 5.
 - Version 2.0.1: This is a signficantly enhanced release of the CurrencyPay SDK.  This version offers multi-device support while eliminating some overhead services.
 
 ## Overview
@@ -34,7 +35,7 @@ After running this command line request, you will see the following messages:
 *Pod installation complete! There are x dependencies from the Podfile and x total pods installed.
 Analyzing dependencies
 Downloading dependencies
-Installing CurrencyPaySDK (2.0.1)*
+Installing CurrencyPaySDK (2.0.2)*
 
 That’s it.  The SDK has been added to your project and you can now access the services of the SDK.  Refer to the CurrencyPaySDK Developer's Guide for information about using the SDK.
 
