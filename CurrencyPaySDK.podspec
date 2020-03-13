@@ -3,8 +3,8 @@
 Pod::Spec.new do |s|
 
   s.name         = "CurrencyPaySDK"
-  s.version      = "2.0.1"
-  s.summary      = "CurrencyPaySDK for licensed customers only. Version 2.0.1 includes multi-Device Support."
+  s.version      = "2.0.2"
+  s.summary      = "CurrencyPaySDK for licensed customers only. Version 2.0.2 includes update to Swift 5."
 
   #
 
